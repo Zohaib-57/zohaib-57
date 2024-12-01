@@ -1,6 +1,6 @@
 # zohaib-57
 # 💫 About Me:
- 1. 🧑‍💻 I’m currently working on HTML, CSS, and JavaScript.<br>2. 👐 I’m looking for help with mastering advanced JavaScript concepts and performance optimization.<br>3. 🌱 I’m currently learning JavaScript algorithms, async/await, and responsive web design techniques.<br>4. 💬 Ask me about JavaScript basics, DOM manipulation, or front-end development.<br>5. ⚡ Fun fact  I find  coding challenges  relaxing and love a good cup of coffee  while debugging! ☕😊
+  1. 🧑‍💻 I’m currently working on HTML, CSS, and JavaScript.<br>2. 👐 I’m looking for help with mastering advanced JavaScript concepts and performance optimization.<br>3. 🌱 I’m currently learning JavaScript algorithms, async/await, and responsive web design techniques.<br>4. 💬 Ask me about JavaScript basics, DOM manipulation, or front-end development.<br>5. ⚡ Fun fact  I find  coding challenges  relaxing and love a good cup of coffee  while debugging! ☕😊
 
 
 ## 🌐 Socials:
