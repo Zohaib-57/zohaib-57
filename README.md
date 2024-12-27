@@ -1,6 +1,6 @@
 # zohaib-57
 # 💫 About Me:
- 1.🧑‍💻 I’m currently working on React(JS Library).<br
+ 1.🧑‍💻 I’m currently working on React(JS Library).<br>
   2.🧑‍💻 I’m done with HTML, CSS, and JavaScript.<br>3. 👐 I’m looking for help with mastering advanced JavaScript concepts and performance optimization.<br>4. 🌱 I’m currently learning JavaScript algorithms, async/await, and responsive web design techniques.<br>5. 💬 Ask me about JavaScript basics, DOM manipulation, or front-end development.<br>6. ⚡ Fun fact  I find  coding challenges  relaxing and love a good cup of coffee  while debugging! ☕😊
 
 
