@@ -36,9 +36,9 @@
 
 ## 📊 GitHub Stats:
 
-![Zohaib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zohaib-57&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)
-![Zohaib's Streak](https://github-readme-streak-stats.herokuapp.com/?user=zohaib-57&theme=gruvbox&hide_border=false)
-![Zohaib's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zohaib-57&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Zohaib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zohaib-57&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![Zohaib's Streak](https://github-readme-streak-stats.herokuapp.com/?user=zohaib-57&theme=tokyonight&hide_border=false)
+![Zohaib's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zohaib-57&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
