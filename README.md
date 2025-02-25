@@ -1,47 +1,27 @@
-# zohaib-57
+# 💫 About Me:
+🧑‍💻 Frontend Developer | JavaScript & React Enthusiast<br><br>✅ Proficient in: HTML, CSS, JavaScript<br>🚀 Expertise in: Advanced JavaScript concepts, performance optimization, and modern front-end development<br>📚 Currently Learning: JavaScript algorithms, async/await, Firebase, and responsive web design<br>🔹 Technical Skills: React.js, Redux Toolkit, DOM manipulation, and state management<br>💡 Projects: Building an image gallery and an e-commerce landing page<br>💬 Ask me about: JavaScript fundamentals, front-end development, and best practices in React<br>☕ Passionate about problem-solving, coding challenges, and a good cup of coffee while debugging
 
-## 🌟 About Me:
 
-```diff
-+ 🧑‍💻 I’m currently working on React (JS Library).
-+ 🧑‍💻 I’m done with HTML, CSS, and JavaScript.
-+ 👐 I’m looking for help with mastering advanced JavaScript concepts and performance optimization.
-+ 🌱 I’m currently learning JavaScript algorithms, async/await, and responsive web design techniques.
-+ 💬 Ask me about JavaScript basics, DOM manipulation, or front-end development.
-+ ⚡ Fun fact: I find coding challenges relaxing and love a good cup of coffee while debugging! ☕😊
-```
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/bugsquashers1.0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-zohaib-abbas%F0%9F%87%B5%F0%9F%87%B8-bb79b72b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@Bug-squashers-24) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zohaibabbas8557@gmail.com) 
 
----
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=flat&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Zohaib-57&theme=outrun&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Zohaib-57&theme=outrun&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zohaib-57&theme=outrun&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🌐 Connect with Me:
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Zohaib-57&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/bugsquashers1.0) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-zohaib-abbas%F0%9F%87%B5%F0%9F%87%B8-bb79b72b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@Bug-squashers-24)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
----
-
-## 💻 Tech Stack:
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Zohaib-57&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true)
 
 ---
-
-## 📊 GitHub Stats:
-
-![Zohaib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zohaib-57&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![Zohaib's Streak](https://github-readme-streak-stats.herokuapp.com/?user=zohaib-57&theme=tokyonight&hide_border=false)
-![Zohaib's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zohaib-57&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=zohaib-57&icon=0&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Zohaib-57&icon=2&color=7)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
