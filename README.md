@@ -14,7 +14,7 @@
 
 ## 01 / ABOUT
 
-**I'm Zohaib.** I build AI-enabled software, full-stack web products, and practical business systems. I work as an **Odoo Technical Developer at NerithonX Technologies**, developing modules and workflows for a hospital management system.
+**I'm Zohaib.** I build AI-enabled software, full-stack web products, and practical business systems. I work as an **Odoo Technical Developer at NerithonX Technologies**, developing modules and workflows.
 
 I graduated in Software Engineering from **Islamia College Peshawar** with a **3.68/4.00 CGPA**. Right now, I'm learning to build **AI agents with Node.js and JavaScript**: tool calling, multi-step orchestration, memory, and evaluation.
 
